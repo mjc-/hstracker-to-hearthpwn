@@ -15,6 +15,7 @@ Example using Senfglas' awesome Grim Patron warrior deck.
 
 Create deck.txt by using the tracker's Copy names to clipboard. 
 
+```shell
 $ cat deck.txt
 Execute x 2
 Whirlwind x 2
@@ -35,5 +36,5 @@ Emperor Thaurissan
 $ ./deck-file-to-deckbuiler-url.py warrior deck.txt
 http://www.hearthpwn.com/deckbuilder/warrior#227:2;161:2;632:2;664:2;166:1;215:2;328:2;69:2;193:2;7734:2;7757:2;428:2;261:2;246:2;14435:2;14454:1;
 $
-
+```
 
